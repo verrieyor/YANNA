@@ -1,0 +1,217 @@
+.home-container {
+    width: 100%;
+    display: flex;
+    overflow: auto;
+    min-height: 100vh;
+    align-items: center;
+    flex-direction: column;
+  }
+  .home-mac-book-pro1 {
+    width: 100%;
+    height: 900px;
+    display: flex;
+    overflow: hidden;
+    position: relative;
+    align-items: flex-start;
+    flex-shrink: 0;
+    border-color: transparent;
+    background-color: #b5e6ad;
+  }
+  .home-text {
+    top: 406px;
+    left: 60px;
+    color: rgb(0, 0, 0);
+    width: 599px;
+    height: auto;
+    position: absolute;
+    font-size: 21px;
+    align-self: auto;
+    font-style: One;
+    text-align: left;
+    font-family: Fira Sans;
+    font-weight: 400;
+    line-height: 30px;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .home-rectangle1 {
+    top: -6px;
+    left: -4px;
+    width: 1447px;
+    height: 86px;
+    position: absolute;
+    border-color: transparent;
+  }
+  .home-text01 {
+    top: 17px;
+    left: 110px;
+    color: rgba(255, 255, 255, 1);
+    height: auto;
+    position: absolute;
+    font-size: 35px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: center;
+    font-family: Kanit;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .home-group1 {
+    top: 28px;
+    right: 62px;
+    width: 403px;
+    height: 30px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+  }
+  .home-text03 {
+    left: 322.0589294433594px;
+    color: rgba(255, 255, 255, 1);
+    width: 81px;
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: center;
+    font-family: Kanit;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .home-text05 {
+    color: rgba(255, 255, 255, 1);
+    width: 88px;
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: center;
+    font-family: Kanit;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .home-text07 {
+    left: 115.17340087890625px;
+    color: rgba(255, 255, 255, 1);
+    width: 65px;
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: center;
+    font-family: Kanit;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .home-text09 {
+    left: 206.8855438232422px;
+    color: rgba(255, 255, 255, 1);
+    width: 88px;
+    height: auto;
+    position: absolute;
+    font-size: 20px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: center;
+    font-family: Kanit;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .home-group2 {
+    top: 521px;
+    left: 76px;
+    width: 230px;
+    height: 67px;
+    display: flex;
+    padding: 0;
+    position: absolute;
+    align-self: auto;
+    box-sizing: border-box;
+    align-items: flex-start;
+    flex-shrink: 1;
+    border-color: transparent;
+    border-style: none;
+    border-width: 0;
+    margin-right: 0;
+    border-radius: 0px 0px 0px 0px;
+    margin-bottom: 0;
+    flex-direction: row;
+    justify-content: flex-start;
+    background-color: transparent;
+    background-image: linear-gradient(180deg, rgba(60, 117, 50, 1) 0%, rgba(60, 116, 50, 1) 100%);
+  }
+  .home-text11 {
+    left: 8px;
+    color: rgb(255, 255, 255);
+    width: 199px;
+    bottom: 17px;
+    height: auto;
+    position: absolute;
+    font-size: 26px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: center;
+    font-family: Montserrat;
+    font-weight: 400;
+    line-height: 30px;
+    font-stretch: normal;
+    text-decoration: none;
+  }
+  .home-text12 {
+    top: 227px;
+    left: 58px;
+    color: rgb(0, 0, 0);
+    width: 671px;
+    height: auto;
+    position: absolute;
+    font-size: 67px;
+    align-self: auto;
+    font-style: Regular;
+    text-align: left;
+    font-family: Montserrat;
+    font-weight: 400;
+    line-height: normal;
+    font-stretch: normal;
+    margin-right: 0;
+    margin-bottom: 0;
+    text-decoration: none;
+  }
+  .home-saveearth1 {
+    top: 149px;
+    right: 60px;
+    width: 400px;
+    height: 565px;
+    position: absolute;
+    border-color: transparent;
+  }
+  
